@@ -20,7 +20,7 @@ launch OCTAVE and type
 >> pkg load windows
 
 4. Run the script 
->> vsynth
+>> xsynth
 
 5. Run Synthesiser 
 Enter the text to be convereted to speech in the GUI text box. Press Synthesize button. Select the Pitch / Pace and the volume.
